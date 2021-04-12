@@ -42,4 +42,6 @@
 - smart mind will make smart work
 - Try different learning tactics.
 - Value the process over the end result.
-#### my sources was from [attlassin](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
+#### My sources was from [attlassin](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
