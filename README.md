@@ -14,5 +14,17 @@
 ## Effort :
 ### I have similar troubles with cycling. When my alarm goes off at 5 A.M., the thought of going out on the bike is dreadful. The temptation to stay in bed is strong, strong, strong – curse you, instant gratification monkey – but I also know the feeling won’t last and I’ll feel guilty later, as always. The trite-but-true phrase “no pain, no gain” is pure growth mindset!
 ## Criticism :
-###
+##### I also find it useful to review each of my days and assess how I’ve done. As I mentioned at the beginning, I often judge my days based on my mood at the end. My worst days are when I haven’t managed to get things together, I’ve procrastinated and wasted time, and I find myself with very little to look back on positively.
+
+
+##### **What was the best part of the day?**
+##### **What went wrong, and how can I make sure it doesn’t happen again?**
+##### These **questions** help me focus on all aspects of my day, the good and the bad, and they help me internalize strategies for creating more good days going forward.
+
+##### And it turns out, variations of these questions help me process criticism from coworkers. Assuming their critique is valid (and it usually is), I can hold a mini-retrospective with myself:
+
+##### Which aspects of my work am I most proud of?
+##### What can I do to improve the aspects I’m less proud of?
+##### That’s the dark side of growth, I guess…
+
 #### my sources was from [attlassin](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
