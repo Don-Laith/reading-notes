@@ -1,11 +1,18 @@
 # **reading-notes**
 [read01](read01.md)
 
-##  Growth Mindset
+##  *Growth Mindset*
 ## What is a growth mindset?
-#### A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+## 4 Benefits of the Growth Mindset :
+- Enjoy Life, Even When You’re Not Good At It
+- Improve Your Self-Insight and Self-Esteem
+- Improve Your Relationships
+- Never Feel Stupid When Learning
 
-## if we talk about growth mind set it's mean pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
+
+#### "A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning."
+
+## If we talk about growth mind set it's mean pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 ## Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:
 ![NewGrowthMindset2](https://user-images.githubusercontent.com/82310575/114366174-dadefd00-9b83-11eb-913e-321577b53708.png)
 ### Perseverance, gumption traps, and maintaining a growth mindset :
