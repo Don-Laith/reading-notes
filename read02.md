@@ -15,7 +15,7 @@ The local Git repository has three components:
 ![image1](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
 ## The Life Cycle of File Status
 
--After you edit a file, Git flags it as modified because of changes made after the previous commit.
+-After you  edit a file, Git flags it as modified because of changes made after the previous commit.
 -You stage the modified file.
 -Then, you commit staged changes.
 
