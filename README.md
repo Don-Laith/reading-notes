@@ -1,5 +1,4 @@
 # **reading-notes**
-[read01](read01.md)
 
 ##  *Growth Mindset*
 ## What is a growth mindset?
