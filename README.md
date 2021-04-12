@@ -10,9 +10,7 @@
 - Never Feel Stupid When Learning
 
 
-#### "A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning."
-
-## If we talk about growth mind set it's mean pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
+### If we talk about growth mind set it's mean pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
 ## Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:
 ![NewGrowthMindset2](https://user-images.githubusercontent.com/82310575/114366174-dadefd00-9b83-11eb-913e-321577b53708.png)
 ### Perseverance, gumption traps, and maintaining a growth mindset :
