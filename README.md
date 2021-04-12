@@ -45,3 +45,5 @@
 
 
 #### My sources was from [attlassin](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[read01](read01)
+[read02](read02)
