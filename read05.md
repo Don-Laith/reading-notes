@@ -11,6 +11,9 @@
 
 
 ### LOGICAL OPERATORES
+![log](log.png)
+
+
 ##### comparison operator usually return single values of true or false , Logical operator allow you to compare the result of more than one comparision operator 
 ### example of logical operator :
 - && : logical AND : this operator test more than one condition , if both true it will be true , otherwise it will be false 
