@@ -24,8 +24,11 @@
 true II anything it has found a true 
 - There is no point continuing because at least one of the values is true. 
 
+<<<<<<< HEAD
 ## LOOP
 #### Loops check a condition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns fal se. There are three common types of loops: 
 - FOR If you need to run code a specific number of times, use a for loop. (It is the most common loop.) In a for loop, the condition is usually a counter which is used to tell how many times the loop should run. 
 - WHILE If you do not know how many times the code should run, you can use a while loop. Here the condition can be something other than a counter, and the code will continue to loop for as long as the condition is true. 
--Do While loop is very similar to the while loop, but has one key difference: it will always run the statements inside the curly braces at least once, even if the condition evaluates to false. 
+- Do While loop is very similar to the while loop, but has one key difference: it will always run the statements inside the curly braces at least once, even if the condition evaluates to false. 
+
+
