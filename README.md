@@ -1,5 +1,5 @@
-# **reading-notes**
-[read01](read01.md)
+# **Reading-notes**
+### My name is Laith Hayajneh i had graduated from yarmouk UNIV 
 
 ##  *Growth Mindset*
 ## What is a growth mindset?
@@ -46,10 +46,10 @@
 
 
 #### My sources was from [attlassin](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-[read01](read01)
-[read02](read02)
 
-_my name is Laith Hayajneh i had graduated from yarmouk UNIV 
+
+
+
 
 |Number | Content |
 |-------|---------|
