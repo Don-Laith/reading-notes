@@ -53,5 +53,20 @@ image a user clicked on and disA gallery script could check which image a user c
 #### WHAT IS A FUNCTION?
 * Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
 
+* Grouping together the The steps that the function On the right, there is an example statements that are required to needs to perform in order to of a function in the JavaScript answer a question or perform a perform its task are packaged file. It is called updateMessage() . task helps organize your code. up in a code block. You may remember from the last chapter Don't worry if you do not
+- Furthermore, the statements in a that a code block consists of one understand the syntax of the function are not always executed or more statements contained example on the right; you will when a page loads, so functions within curly braces. ( And you do take a closer look at how to write also offer a way to store the steps not write a semicolon after the and use functions in the pages needed to achieve a task. The closing curly brace - like you do that follow. script can then ask the function after a statement.) to perform all of those steps as Remember that programming and when they are required. Some functions need to be languages often rely upon on
+- For example, you might have provided with information in name/value pairs. The function a task that you only want to order to achieve a given task. For has a name, updateMessage, perform if the user clicks on a example, a function to calculate and the value is the code block specific element in the page. the area of a box would need (which consists of statements). to know its width and height. When you call the function by its If you are going to ask the Pieces of information passed name, those statements will run. function to perform its task to a function are known as later, you need to give your parameters. You can also have anonymous function a name. That name functions. They do not have a should describe the task it is When you write a function and name, so they cannot be called. performing. When you ask it to you expect it to provide you Instead, they are executed as perform its task, it is known as with an answer, the response is soon as the interpreter comes calling the function. known as a return value. across them.
 
 ### 
+- DECLARING FUNCTIONS THAT NEED INFORMATION 
+- Sometimes a function needs specific information to perform its task. In such cases, when you declare the function you give it parameters. Inside the function, the parameters act like variables. 
+- If a function needs information to work, you indicate what it needs to know in parentheses after the function name. 
+
+- The items that appear inside these parentheses are known as the parameters of the function. Inside the function those words act like variable names.  PARAMETERS 
+
+- function getArea(width, height) { return width * height; } 
+
+-  THE PARAMETERS ARE USED LIKE VARIABLES WITHIN THE FUNCTION 
+- This function will calculate and return the area of a rectangle. To do this, it needs the rectangle's width and height. Each time you call the function these values could be different. 
+- This demonstrates how the code can perform a task without knowing the exact details in advance, as long as it has rules it can follow to achieve the task.  - FUNCTIONS, METHODS & OBJECTS 
+- So, when you design a script, you need to note the information the function will require in order to perform its task.  If you look inside the function, the parameter names are used just as you would use variables. Here, the parameter names width and height represent the width and height of the wall. 
