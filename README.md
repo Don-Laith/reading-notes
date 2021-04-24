@@ -52,15 +52,23 @@
 ## This is the map for my site :
 
 
-|Number | Content |
-|-------|---------|
-|1|[read01](read01)|
-|2|[read02](read02)|
-|3|[read03](read03)|
-|4|[read04a](read04a)|
-|5|[read04b](read04b)|
-|5|[read05](read05)|
-|6|[read06](read06)|
-|7|[read07](read07)|
-|9|[read09](read09)|
-|10|[class01](201/class-01)|
+|Number | Content |Description|
+|-------|---------|---------------|
+|1|[read01](read01)|Learninig MarkDown|
+|2|[read02](read02)|Revision And The Cloud|
+|3|[read03](read03)|Structure web pages with HTML|
+|4|[read04a](read04a)|Dynamic web pages with JavaScript|
+|5|[read04b](read04b)|Computer Architecture and Logic|
+|5|[read05](read05)|Operators and Loops|
+|6|[read06](read06)|Programming with JavaScrip|
+|7|[read07](read07)|Design web pages with CSS|
+|9|[read09](read09)|The Coder’s Computer|
+
+
+**Code 201 Reading Notes**
+
+
+
+|Number | Content |Description|
+|-------|---------|-----------|
+|10|[class01](201/class-01)|Introductory HTML and JavaScript|
