@@ -63,7 +63,3 @@
 |6|[read06](read06)|
 |7|[read07](read07)|
 |9|[read09](read09)|
-## content in 201 :
-| number | content |
-|--------|---------|
-|1|[read01](201/class-01)|
