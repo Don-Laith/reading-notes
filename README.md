@@ -45,22 +45,44 @@
 - Value the process over the end result.
 
 
-#### My sources was from [attlassin](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+<!-- #### My sources was from [attlassin](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) --->
 
 
 
 ## This is the map for my site :
 
 
-|Number | Content |
-|-------|---------|
-|1|[read01](read01)|
-|2|[read02](read02)|
-|3|[read03](read03)|
-|4|[read04a](read04a)|
-|5|[read04b](read04b)|
-|5|[read05](read05)|
-|6|[read06](read06)|
-|7|[read07](read07)|
-|9|[read09](read09)|
-|10|[class01](201/class-01)|
+|Number | Content |Description|
+|-------|---------|---------------|
+|1|[read01](read01)|Learninig MarkDown|
+|2|[read02](read02)|Revision And The Cloud|
+|3|[read03](read03)|Structure web pages with HTML|
+|4|[read04a](read04a)|Dynamic web pages with JavaScript|
+|5|[read04b](read04b)|Computer Architecture and Logic|
+|5|[read05](read05)|Operators and Loops|
+|6|[read06](read06)|Programming with JavaScrip|
+|7|[read07](read07)|Design web pages with CSS|
+|9|[read09](read09)|The Coder’s Computer|
+
+
+**Code 201 Reading Notes**
+
+
+
+|Number | Content |Description|
+|-------|---------|-----------|
+|1|[class01](201/class-01)|Introductory HTML and JavaScript|
+|2|[class02](201/class-02)|
+|3|[class03](201/class-03)|
+|4|[class04](201/class-04)|
+|5|[class05](201/class-05)|
+|6|[class06](201/class-06)|
+|7|[class07](201/class-07)|
+|8|[class08](201/class-08)|
+|9|[class09](201/class-09)|
+|10|[class10](201/class-10)|
+|11|[class011](201/class-11)|
+|12|[class012](201/class-12)|
+|13|[class013](201/class-13)|
+|14|[class014](201/class-14)|
+|15|[class015](201/class-15)|
