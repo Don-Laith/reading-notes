@@ -27,7 +27,7 @@
 |Number | Content |Description|
 |-------|---------|-----------|
 |1|[class01](201/class-01)|Introductory HTML and JavaScript|
-|2|[class02](201/class-02)|
+|2|[class02](201/class-02)|HTML Text, CSS Introduction, and Basic JavaScript Instructions|
 |3|[class03](201/class-03)|
 |4|[class04](201/class-04)|
 |5|[class05](201/class-05)|
