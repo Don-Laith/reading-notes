@@ -1,0 +1,15 @@
+## Text
+#### Visual editors often resemble If you copy and paste text from Code views show you the code Content management systems and HTML editors such as Dreamweaver usually have two views of the page you are creating: a visual editor and a code view.
+#### If you copy and paste text from a program that allows you to format text (such as Word) into a visual editor, it may add extra markup. To prevent this copy the text into a plain text editor first (such as Notepad on a PC or TextEdit on a Mac) and then copy it from that program and paste it into the visual editor.
+## SemanTic markup
+#### In the rest of the chapter you will meet some more elements that will help you when you are adding text to web pages. For example, you are going to meet the <em> element that allows you to indicate where emphasis should be placed on selected words and the <blockquote> element which indicates that a block of text is a quotation. Browsers often display the contents of these elements in a different way. For example, the content of the <em> element is shown in italics, and a <blockquote> is usually indented. But you should not use them to change the way that your text looks; their purpose is to describe the content of your web pages more accurately. The reason for using these elements is that other programs, such as screen readers or search engines, can use this extra information. For example, the voice of a screen reader may add emphasis to the words inside the <em> element, or a search engine might register that your page features a quote if you use the <blockquote> element.
+## summary
+### X HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs). X They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is a quotation).
+## IntroducIng CSS
+#### In this section, we will look at how to make your web pages more attractive, controlling the design of them using CSS. CSS allows you to create rules that specify how the content of an element should appear. For example, you can specify that the background of the page is cream, all paragraphs should appear in gray using the Arial typeface, or that all level one headings should be in a blue, italic, Times typeface.
+#### Once you have learned how to write a CSS rule, learning CSS mostly involves learning the different properties you can use. So this chapter will:
+- Introduce you to how CSS works
+- Teach you how to write CSS rules
+- Show you how CSS rules apply to HTML pages
+## Different version of CSS & BrowSer Quirks
+#### In the same way that there have been several versions of HTML, there have also been different versions of CSS. Browsers did not implement all CSS features at once, so some older browsers do not support every property. This is mentioned when it is likely to affect you, along with notes where CSS properties might not behave as expected. CSS1 was released in 1996 and CSS2 followed two years later. Work on CSS3 has been ongoing but the major browsers have already started to implement it.
