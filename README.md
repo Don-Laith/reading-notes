@@ -28,7 +28,7 @@
 |-------|---------|-----------|
 |1|[class01](201/class-01)|Introductory HTML and JavaScript|
 |2|[class02](201/class-02)|HTML Text, CSS Introduction, and Basic JavaScript Instructions|
-|3|[class03](201/class-03)|
+|3|[class03](201/class-03)|HTML Lists, Control Flow with JS, and the CSS Box Model|
 |4|[class04](201/class-04)|
 |5|[class05](201/class-05)|
 |6|[class06](201/class-06)|
