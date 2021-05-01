@@ -30,7 +30,7 @@
 |2|[class02](201/class-02)|HTML Text, CSS Introduction, and Basic JavaScript Instructions|
 |3|[class03](201/class-03)|HTML Lists, Control Flow with JS, and the CSS Box Model|
 |4|[class04](201/class-04)|HTML Links, JS Functions, and Intro to CSS Layout |
-|5|[class05](201/class-05)|
+|5|[class05](201/class-05)| HTML Images; CSS Color & Text|
 |6|[class06](201/class-06)|
 |7|[class07](201/class-07)|
 |8|[class08](201/class-08)|
