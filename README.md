@@ -33,7 +33,7 @@
 |5|[class05](201/class-05)| HTML Images; CSS Color & Text|
 |6|[class06](201/class-06)|Problem Domain, Objects, and the DOM|
 |7|[class07](201/class-07)|Object-Oriented Programming, HTML Tables|
-|8|[class08](201/class-08)|
+|8|[class08](201/class-08)|More CSS Layou|
 |9|[class09](201/class-09)|
 |10|[class10](201/class-10)|
 |11|[class011](201/class-11)|
