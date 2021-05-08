@@ -35,7 +35,7 @@
 |7|[class07](201/class-07)|Object-Oriented Programming, HTML Tables|
 |8|[class08](201/class-08)|More CSS Layou|
 |9|[class09](201/class-09)|Forms and Events|
-|10|[class10](201/class-10)|
+|10|[class10](201/class-10)|Debugging|
 |11|[class011](201/class-11)|
 |12|[class012](201/class-12)|
 |13|[class013](201/class-13)|
