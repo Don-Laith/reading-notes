@@ -36,8 +36,8 @@
 |8|[class08](201/class-08)|More CSS Layou|
 |9|[class09](201/class-09)|Forms and Events|
 |10|[class10](201/class-10)|Debugging|
-|11|[class011](201/class-11)|
-|12|[class012](201/class-12)|
+|11|[class011](201/class-11)|IMAGE|
+|12|[class012](201/class-12)| Chart.js, Canvas|
 |13|[class013](201/class-13)|
 |14|[class014](201/class-14)|
 |15|[class015](201/class-15)|
