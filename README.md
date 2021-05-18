@@ -38,7 +38,7 @@
 |10|[class10](201/class-10)|Debugging|
 |11|[class011](201/class-11)|IMAGE|
 |12|[class012](201/class-12)| Chart.js, Canvas|
-|13|[class013](201/class-13)|
+|13|[class013](201/class-13)|Local Storage|
 |14|[class014](201/class-14)|
 |15|[class015](201/class-15)|
 
