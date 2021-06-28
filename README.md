@@ -6,6 +6,7 @@
 
 ## This is the map for my site :
 
+### Code 102 - Intro to Software Development
 
 |Number | Content |Description|
 |-------|---------|---------------|
@@ -20,7 +21,7 @@
 |9|[read09](read09)|The Coder’s Computer|
 |10|[mindset](mindset.md)|growth mindset|
 
-**Code 201 Reading Notes**
+**Code 201 - Foundations of Software Development**
 
 
 
@@ -42,3 +43,24 @@
 |14|[class14a](201/class-14)| CSS Transforms, Transitions, and Animations|
 |15|[class15b](201/class-15)|What Google Learned About Teams|
 
+**Code 301 - Intermediate Software Development**
+
+
+
+|Number | Content |Description|
+|-------|---------|-----------|
+|1|[class01](301/class-01)| |
+|2|[class02](301/class-02)| |
+|3|[class03](301/class-03)| |
+|4|[class04](301/class-04)|  |
+|5|[class05](301/class-05)| |
+|6|[class06](301/class-06)| |
+|7|[class07](301/class-07)| |
+|8|[class08](301/class-08)| |
+|9|[class09](301/class-09)|  |
+|10|[class10](301/class-10)| |
+|11|[class11](301/class-11)| |
+|12|[class12](301/class-12)|  |
+|13|[class13](301/class-13)| |
+|14|[class14a](301/class-14)|  |
+|15|[class15b](301/class-15)| |
