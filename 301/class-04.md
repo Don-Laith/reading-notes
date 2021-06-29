@@ -1,4 +1,4 @@
-![react](https://miro.medium.com/max/2128/1*KN7zbaWkbm5E71zZWfTf7A.gif) 
+
 # Forms 
 <hr> <br>
   * It’s good to have a JavaScript function that handling with submission of the form and has access to the data (the user entered into the form), by a technique called “controlled components”.
