@@ -2,8 +2,8 @@
 # **Reading-notes**
 
 
+[my live url](https://laith-hayajneh.github.io/reading-notes/)
 
-# my live url : https://laith-hayajneh.github.io/reading-notes/
 ## This is the map for my site :
 
 ### Code 102 - Intro to Software Development
