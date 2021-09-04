@@ -1,10 +1,10 @@
 # Socket.io
 
-# What is the benefit of transforming data into packets? 
+## What is the benefit of transforming data into packets? 
 
-**TDM-based networks must transform into packet-based networks to meet the demands of pervasive data-centric applications and services. Packet-based networks not only enable new innovations, services, and business opportunities, they are also the most cost-effective, efficient, and scalable networks for content delivery**
+## **TDM-based networks must transform into packet-based networks to meet the demands of pervasive data-centric applications and services. Packet-based networks not only enable new innovations, services, and business opportunities, they are also the most cost-effective, efficient, and scalable networks for content delivery**
 
-# UDP is often refereed to as a connectionless protocol. Why is this?
+## UDP is often refereed to as a connectionless protocol. Why is this?
 
 
 **UDP is a connectionless protocol. It is known as a datagram protocol because it is analogous to sending a letter where you don't acknowledge receipt. Examples of applications that use connectionless transport services are broadcasting and tftp**
