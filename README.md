@@ -87,4 +87,8 @@
 |13|[class13](401/class-13)| |
 |14|[class14a](401/class-14)|  |
 |15|[class15b](401/class-15)| |
+|15|[class15b](401/class-16)| |
+|15|[class15b](401/class-17)| |
+|15|[class15b](401/class-18)| |
+|15|[class15b](401/class-19)| |
 
